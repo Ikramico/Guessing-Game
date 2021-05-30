@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(95, 158, 160);
+    margin: 0;
+}
+
+.main{
+    margin: auto;
+}
+
+.aga{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+.start{
+    align-items: center;
+    margin: 20px 15px;
+}
+
+.nmb, .hide{
+    text-align: center;
+}
+
+.gan{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: monospace;
+}
+
+.key{
+    background-color: white;
+    color: black;
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: 900;
+    padding: 20px 25px;
+    border-radius: 20px;
+}
+
+.inp, .scr{
+    text-align: center;
+    float: left;
+    width: 50%;
+    margin-top: 150px;
+}
+
+.cli{
+    height: 100px;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.ino{
+    height: 80px;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.sr, .hsr, .cus{
+    height: 100px;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 300;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
